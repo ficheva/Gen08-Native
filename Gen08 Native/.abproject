@@ -1,11 +1,11 @@
 {
   "ProjectName": "Gen08 Native",
-  "ProjectGuid": "1a054714-148b-4ec8-9fc7-6ddcbbe9389f",
+  "ProjectGuid": "8d044410-a959-4c41-a3c9-aada2e204269",
   "projectVersion": 1,
-  "AppIdentifier": "com.telerik.Gen08Native",
-  "DisplayName": "Gen08 Native",
+  "AppIdentifier": "com.telerik.Generators08Native",
+  "DisplayName": "Generators08 Native",
   "Author": "",
-  "Description": "Gen08 Native",
+  "Description": "Generators08 Native",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
@@ -23,6 +23,6 @@
   ],
   "AndroidHardwareAcceleration": "false",
   "iOSStatusBarStyle": "Default",
-  "FrameworkVersion": "1.4.3",
+  "FrameworkVersion": "1.1.2",
   "Framework": "NativeScript"
 }

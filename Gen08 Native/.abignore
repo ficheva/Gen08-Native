@@ -13,8 +13,6 @@
 # Visual Studio files
 bin/**/*
 obj/**/*
-**/.vs/**/*
-**/.vscode/**/*
 **/*.obj
 **/*.pdb
 **/*.user
@@ -37,15 +35,7 @@ obj/**/*
 
 # AppBuilder files
 .abignore
-.*.abignore
-.*.*.abignore
 .ab/**/*
-.app.json
-.yo-rc.json
-
-# TypeScript files
-**/*.ts
-**/*.map
 
 # Other
 **/*.bak
@@ -54,5 +44,3 @@ obj/**/*
 
 # NativeScript files
 platforms/**/*
-node_modules/**/*
-typings/**/*

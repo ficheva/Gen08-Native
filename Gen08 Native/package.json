@@ -1,6 +1,4 @@
 {
-    "dependencies": {
-        "tns-core-modules": "1.4.0"
-    },
+    "dependencies": {},
     "devDependencies": {}
 }
